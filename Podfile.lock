@@ -1,0 +1,16 @@
+PODS:
+  - iOS-Echarts (1.4.4)
+
+DEPENDENCIES:
+  - iOS-Echarts
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - iOS-Echarts
+
+SPEC CHECKSUMS:
+  iOS-Echarts: dbc7423d861e5eedee78906a39d205b5c4da9a13
+
+PODFILE CHECKSUM: d346549869e20fc063838588285ac8a439076c39
+
+COCOAPODS: 1.5.3
